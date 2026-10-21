@@ -1,4 +1,6 @@
-﻿===========================================================
+This project demonstrates a data engineering pipeline for analysing financial transactions through batch and streaming workflows. Kafka handles simulated transaction streams, while PySpark processes historical data and identifies suspicious patterns using rules and time-window aggregations. HDFS stores processing outputs, and MongoDB and Neo4j support downstream queries and relationship analysis.
+
+===========================================================
 BMDS2013 Data Engineering Assignment – readme.txt
 ===========================================================
 
